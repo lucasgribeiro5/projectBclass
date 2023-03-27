@@ -13,4 +13,5 @@ Cel: (14) 99671-7208
 Formação:
 
 Tecnologia em Análise e Desenvolvimento de Sistemas
+
 Estudante da Unimar
